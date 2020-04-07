@@ -1,0 +1,27 @@
+{
+  "name": "zbam",
+  "version": "1.0.0",
+  "description": "A tiny plugin for orchestrating drag/draw/swipe-like mouse/touch events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurkerimov/zbam.git"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "swipe",
+    "event",
+    "touch",
+    "mouse"
+  ],
+  "author": "Onur Kerimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onurkerimov/zbam/issues"
+  },
+  "homepage": "https://github.com/onurkerimov/zbam#readme"
+}
